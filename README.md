@@ -70,7 +70,7 @@
     <main>
         <header>
             <h1>DailyCounter Privacy Policy</h1>
-            <p class="updated">Last updated: October 28, 2026</p>
+            <p class="updated">Last updated: November 14, 2026</p>
         </header>
 
         <p>
